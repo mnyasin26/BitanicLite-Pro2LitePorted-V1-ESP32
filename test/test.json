@@ -1,0 +1,17 @@
+{
+    "serial_number": "PUB0001",
+    "date_time": "2021-01-01 00:00:00",
+    "firmware_version": "V2.0.6",
+    "data_sensor":{
+        "voltage": 12.32999992,
+        "arus": 0.660000026,
+        "battery_consumtion": 8.140000343,
+        "intensistas_cahaya": 0
+    },
+    "status_sistem": {
+        "current_ticking_time": 4057,
+        "current_sendtime_period": 0,
+        "current_buzzer_state": 0,
+        "current_mode": 0
+    }
+}
